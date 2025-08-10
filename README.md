@@ -2,7 +2,7 @@
 
 A classic Tic-Tac-Toe game built with **HTML, CSS, and JavaScript** that runs in the browser.
 
-![Game Screenshot](./screenshot.png) <!-- Replace with your actual screenshot -->
+
 
 ## 🌟 Features
 - **Player vs Player** mode
@@ -20,4 +20,4 @@ A classic Tic-Tac-Toe game built with **HTML, CSS, and JavaScript** that runs in
 4. First to get 3 in a row wins!
 5. Click "Reset Game" to start a new match
 
-## 🛠️ Project Structure
+
