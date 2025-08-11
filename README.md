@@ -3,7 +3,7 @@
 A classic Tic-Tac-Toe game built with **HTML, CSS, and JavaScript** that runs in the browser.
 
 🌐 Live Demo:  
-➡️ **[Play Now]()**  
+➡️ **[Play Now]( https://shivam00018.github.io/TicTakToe_GAME/)**  
 
 
 
